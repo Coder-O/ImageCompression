@@ -1,6 +1,6 @@
 # uk.ac.nulondon:Project2
 
-Write your project description here...
+An image compression software developed by Owen Marcotte and Sankalp Aswani for Northeastern's Fundamentals of Computer Science II course.
 
 Java version 21
 
